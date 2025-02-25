@@ -5,6 +5,7 @@
 ![image](https://github.com/user-attachments/assets/c4123235-3792-4196-8782-e28adfdad790)
 
 
+
 ## 🎮 Features That Will BLOW YOUR MIND!
 
 * **MAIN MENU SO FANCY** it'll make other menus feel inadequate!
@@ -18,17 +19,25 @@
 * **HELP SCREEN** explaining the obvious in the most convoluted way possible!
 * **CREDITS SCREEN** where we shamelessly plug ourselves!
 
+## 🐍 Git Repository
+```
+https://github.com/ParisNeo/lollms_claude_sonnet_3.7_snake_game.git
+```
+
 ## 🔧 Installation (for the technologically challenged)
 
 1. Make sure you have Python installed (the programming language, not the snake)
-2. Install Pygame (it's like magic but for games):
+2. Clone the repository:
    ```
-   pip install pygame
+   git clone https://github.com/ParisNeo/lollms_claude_sonnet_3.7_snake_game.git
    ```
-3. Save the snake.py file somewhere you can find it (not in that folder where things go to die)
-4. Run it:
+3. Install the requirements:
    ```
-   python snake.py
+   pip install -r requirements.txt
+   ```
+4. Run the game:
+   ```
+   python game.py
    ```
 5. BOOM! Snake-tastic entertainment at your fingertips!
 
@@ -59,8 +68,17 @@
 
 ## 📝 License
 
-This masterpiece is available under the "Don't Steal Our Silly Code" license.
-All rights reserved, all lefts too.
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
 
 ## 🐛 Known Bugs
 
