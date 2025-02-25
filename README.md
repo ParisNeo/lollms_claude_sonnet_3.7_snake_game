@@ -2,7 +2,8 @@
 
 *The most RIDICULOUSLY OVER-THE-TOP snake game you'll ever play!*
 
-![Snake Game](https://i.imgur.com/uSrPPDP.png) <!-- This is a placeholder, the game doesn't actually have this image -->
+![image](https://github.com/user-attachments/assets/c4123235-3792-4196-8782-e28adfdad790)
+
 
 ## 🎮 Features That Will BLOW YOUR MIND!
 
